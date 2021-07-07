@@ -1,0 +1,56 @@
+body{
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+    font-family: sans-serif;
+}
+
+
+.nav-part{
+    text-align: center;
+    margin-top:40px;
+    font-size: 30px;
+}
+.nav-part strong{
+    font-style: italic;
+}
+
+.nav-part a{
+    color:red;
+}
+
+.aboutme img{
+    float:right;
+    border: 4px solid darkcyan;
+    padding: 10px ;
+    width: 150px;
+    height: 150px;
+    margin-top:15px;
+}
+ .aboutme{
+     height:800px;
+     width:90%;
+     margin: 0 auto;
+ }
+ .aboutme h3 {
+     font-size: 50px;
+     color: darkolivegreen
+ }
+ .aboutme p {
+     margin-bottom: 20px;
+     font-size: 28px;
+ }
+.aboutme nav {
+    text-align: center;
+    font-size:28px;
+    margin-top: 40px;
+    font-weight: bold;
+}
+.aboutme nav a{
+    color :brown;
+
+}
+.pic {
+    text-align: center
+  
+
+}
