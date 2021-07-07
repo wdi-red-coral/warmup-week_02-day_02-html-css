@@ -1,0 +1,71 @@
+body{
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+    font-family: sans-serif;
+}
+header{
+    text-align: center;
+    margin-bottom: 50px;
+}
+header>hr{
+    width: 90%;
+    color: black;
+    border: 5px;
+
+}
+header a{
+    color: black;
+}
+
+main{
+    
+    width: 80%;
+    padding-left:190px;
+    
+}
+.personal{
+    float: right;
+    width: 20%;
+    margin: 80px
+
+}
+
+main h2 {
+    padding-top: 80px;
+    padding-bottom: 10px;
+
+}
+main p {
+   
+    padding-bottom: 30px;
+
+}
+nav{
+text-align: center;
+font-size:28px;
+margin-top: 30px;
+font-weight: bold;
+margin-bottom: 80px;
+}
+
+ nav a {
+    color: black;
+    padding-top: 80px;
+  
+ 
+
+}
+
+.relaxr{
+    float: center;
+    width: 40%;
+    margin-bottom: 80px;
+    margin-top: 5%;
+
+}
+
+main ul li {
+    padding-top: 5px;
+  
+
+}
